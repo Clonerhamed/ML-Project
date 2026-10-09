@@ -901,6 +901,8 @@ Data Science & Machine Learning
 
 GitHub: [Clonerhamed](https://github.com/Clonerhamed)
 
+Linkedin : [Hamed Goldoust](https://www.linkedin.com/in/hamed-goldoust/)
+
 ---
 
 ## ⭐ Support
