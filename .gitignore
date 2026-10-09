@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+logs/
+catboost_info/
+Notebook/catboost_info/
+artifacts/
+.DS_Store
+.env
